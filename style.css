@@ -1,0 +1,18 @@
+body{
+    background: #88d4d4;
+    background: linear-gradient(180deg, rgb(139, 47, 52) 36%, rgb(223, 226, 44) 92%) fixed;
+ }
+
+ #mi-foto{
+    border-radius: 20%;
+    width: 25%;
+   
+ }
+
+ .carta{
+    margin-top: 16px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    padding:3px;
+    box-shadow: 0 0 20px 1px;
+}
